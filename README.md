@@ -10,8 +10,7 @@ Futuro especialista em ☁️Cloud Computing e outras arquiteturas.
 Aprendendo tecnologias e vivendo uma jornada de constante evolução!
 
 ## Habilidades
-- Linguagens de Programação: C#
-- Frameworks: .NET
+- Linguagens e Frameworks: .NET e C#
 - Banco de Dados: 
 - Outras habilidades: Git e GitHub,DevOps e Softs Skills
 
@@ -23,7 +22,6 @@ Descrição: Construindo um sistema para um Estacionamento em C#
 - Link do repositório: https://github.com/AgnaldoSousa/trilha-net-fundamentos-desafio
 - Tecnologicas utilizadas: .NET e C#
  
-
 ### Projeto 2
 Descrição: Construindo um Sistema de Hospedagem de um Hotel no C#
 - Link do repositório: https://github.com/AgnaldoSousa/trilha-net-explorando-desafio
