@@ -12,7 +12,9 @@
 - 🎓 Estudante em Análise e Desenvolvimento de Sistemas na Cruzeiro do Sul 
 - 🚀 Outras habilidades: Git e GitHub, DevOps e Softs Skills.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AgnaldoSousa)](https://github.com/AgnaldoSousa/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=AgnaldoSousa)](https://github.com/AgnaldoSousa/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AgnaldoSousa)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
