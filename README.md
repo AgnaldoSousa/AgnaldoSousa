@@ -14,7 +14,9 @@
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=AgnaldoSousa)](https://github.com/AgnaldoSousa/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AgnaldoSousa)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AgnaldoSousa&langs_count=5&layout=compact&)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 
