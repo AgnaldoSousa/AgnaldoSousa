@@ -16,8 +16,8 @@
 
 ---
 
-- 💡 Focado em se tornar um Desenvolvedor Back-end e aprender sobre computação em nuvem e estou animado para mergulhar no mundo da programação e contribuir para projetos interessantes.
-- 🌐 Desenvolvedor Back-end e Futuro especialista em ☁️Cloud Computing e outras arquiteturas.
+- 💡 Focado em se tornar um Desenvolvedor FullStack e aprender sobre computação em nuvem e estou animado para mergulhar no mundo da programação e contribuir para projetos interessantes.
+- 🌐 Desenvolvedor e Futuro especialista em ☁️Cloud Computing e outras arquiteturas.
 - 🎓 Estudante em Análise e Desenvolvimento de Sistemas na Cruzeiro do Sul 
 - 🚀 Outras habilidades: Git e GitHub, DevOps e Softs Skills, ( . NET |  C# | Docker | SQL ).
 
