@@ -21,6 +21,8 @@
 - 🎓 Estudante em Análise e Desenvolvimento de Sistemas na Cruzeiro do Sul 
 - 🚀 Outras habilidades: Git e GitHub, DevOps e Softs Skills, ( . NET |  C# | Docker | SQL ).
 
+---
+
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=AgnaldoSousa)](https://github.com/AgnaldoSousa/github-readme-stats)
 
 
